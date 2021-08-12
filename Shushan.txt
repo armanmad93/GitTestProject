@@ -5,4 +5,4 @@ This is Shushos computer
 
 This is my new changes
 
-This is my second changes
+This is changes
